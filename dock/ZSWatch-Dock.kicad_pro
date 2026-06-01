@@ -865,17 +865,19 @@
     "COMPANY": "ZSWatch",
     "DESIGNER": "Daniel Kampert",
     "FABRICATION_NOTES": "",
-    "GIT_HASH_PCB": "bf7152f",
-    "GIT_HASH_SCH": "bf7152f",
+    "GIT_HASH_PCB": "f9474b6",
+    "GIT_HASH_SCH": "01b6f71",
     "GIT_URL": "https://github.com/ZSWatch/Dock-HW",
     "PROJECT_NAME": "ZSWatch Dock",
     "RELEASE_BODY_2.2.0": "Version 2.2.0 not found.",
+    "RELEASE_BODY_2.2.1": "Version 2.2.1 not found.",
     "RELEASE_BODY_UNRELEASED": "Version Unreleased not found.",
-    "RELEASE_DATE": "07-Sep-2025",
-    "RELEASE_DATE_NUM": "2025-09-07",
+    "RELEASE_DATE": "01-Jun-2026",
+    "RELEASE_DATE_NUM": "2026-06-01",
     "RELEASE_TITLE_2.2.0": "Version 2.2.0 not found.",
+    "RELEASE_TITLE_2.2.1": "Version 2.2.1 not found.",
     "RELEASE_TITLE_UNRELEASED": "Version Unreleased not found.",
-    "REVISION": "X.Y.Z",
+    "REVISION": "",
     "SHEET_NAME_1": "Cover Page",
     "SHEET_NAME_10": "......................................",
     "SHEET_NAME_11": "......................................",
@@ -916,6 +918,6 @@
     "SHEET_NAME_7": "......................................",
     "SHEET_NAME_8": "......................................",
     "SHEET_NAME_9": "......................................",
-    "VARIANT": "PRELIMINARY"
+    "VARIANT": "CHECKED"
   }
 }

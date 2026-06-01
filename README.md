@@ -1,8 +1,8 @@
 # ZSWatch-Dock
 
 [![License](https://img.shields.io/badge/License-GPL%203.0-blue.svg)](https://opensource.org/license/gpl-3-0/)
-[![PCB](https://github.com/ZSWatch/Dock-HW/actions/workflows/dock.yaml/badge.svg)](https://github.com/ZSWatch/Dock-HW/actions/workflows/watch.yaml)
-[![Documentation](https://img.shields.io/badge/Documentation-HTML-007ec6?longCache=true&style=flat&logo=asciidoctor&colorA=555555)](https://zswatch-dock-hw.github.io/)
+[![PCB](https://github.com/ZSWatch/Dock-HW/actions/workflows/dock.yaml/badge.svg)](https://github.com/ZSWatch/Dock-HW/actions/workflows/dock.yaml)
+[![Documentation](https://img.shields.io/badge/Documentation-HTML-007ec6?longCache=true&style=flat&logo=asciidoctor&colorA=555555)](https://zswatch.github.io/Dock-HW/)
 
 ## Table of Contents
 
