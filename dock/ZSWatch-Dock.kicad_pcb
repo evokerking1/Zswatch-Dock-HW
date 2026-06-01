@@ -772,7 +772,7 @@
 			(uuid "4c4fe0a4-056b-4116-b7a8-9921155199b4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD_LIBRARY}/3D/Packages/QFN-16-4x4-EP.stp"
+		(model "${KICAD_LIBRARY}/3D/Packages/QFN-16-4x4mm-EP.stp"
 			(offset
 				(xyz 0 0 0)
 			)

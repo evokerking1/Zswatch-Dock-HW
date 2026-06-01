@@ -32,7 +32,7 @@ env:
   # PRELIMINARY: Will generate both schematic and PCB documents, but no ERC/DRC
   # CHECKED: Will generate both schematic and PCB documents, with ERC/DRC
   # RELEASED: Similar to CHECKED, automatically selected when pushing a tag to main
-  kibot_variant: PRELIMINARY
+  kibot_variant: CHECKED
 
   # Master branch (main or master). Can be changed for testing
   master_branch: main
@@ -291,7 +291,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           branch: ${{ github.ref_name }}
-          commit_message: Push outputs from CI/CD ($(date +'%Y-%m-%d'))
+          commit_message: Push outputs from CI/CD (${{ env.DATE }})
 
   deploy:
     needs: generate_outputs
