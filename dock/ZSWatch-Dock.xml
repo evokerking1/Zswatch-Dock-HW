@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/__w/Dock-HW/Dock-HW/dock/ZSWatch-Dock.kicad_sch</source>
-    <date>2026-06-01T11:21:29+0000</date>
+    <date>2026-06-01T11:59:09+0000</date>
     <tool>Eeschema 9.0.7+1</tool>
     <textvar name="ASSEMBLY_NOTES"/>
     <textvar name="BOARD_NAME">Dock-HW</textvar>
@@ -14,12 +14,48 @@
     <textvar name="GIT_URL">https://github.com/ZSWatch/Dock-HW</textvar>
     <textvar name="PROJECT_NAME">ZSWatch Dock</textvar>
     <textvar name="RELEASE_BODY_2.2.0">Version 2.2.0 not found.</textvar>
-    <textvar name="RELEASE_BODY_2.2.1">Version 2.2.1 not found.</textvar>
+    <textvar name="RELEASE_BODY_2.2.1">**Fixed:**
+
+-   Fix inverted Charge-Switch (#51)
+
+-   Fix wrong reset button (#45)
+
+-   Fix wrong pin header for SWD (#44)
+
+-   Fix swapped UART and SWD pins for USB (#48)
+
+**Added:**
+
+-   Add new KiCad template (#42)
+
+-   Add 22R series resistors for SWD lines (#52)
+
+-   Add 0R resistors (NA) to bridge the level shifter (#54)
+
+**Changed:**
+
+-   Replace USB connector with edge mounted female USB (#61)
+
+-   Replace level shifter with TXB0102 (#59)
+
+-   Change silkscreen to white (#60)
+
+-   Replace the USB LED with a darker one (#58)
+
+-   Replace ESD diodes with USBLC6-2P6 (#50)
+
+-   Change ZSWatch USB to a single sided and more stable one (#69)
+
+-   Move Voltage REF connector a little (#72)
+
+**Removed:**
+
+-   Remove box around the version number (#73)</textvar>
     <textvar name="RELEASE_BODY_UNRELEASED">Version Unreleased not found.</textvar>
     <textvar name="RELEASE_DATE">01-Jun-2026</textvar>
     <textvar name="RELEASE_DATE_NUM">2026-06-01</textvar>
     <textvar name="RELEASE_TITLE_2.2.0">Version 2.2.0 not found.</textvar>
-    <textvar name="RELEASE_TITLE_2.2.1">Version 2.2.1 not found.</textvar>
+    <textvar name="RELEASE_TITLE_2.2.1">Version 2.2.1 - 2026-06-01</textvar>
     <textvar name="RELEASE_TITLE_UNRELEASED">Version Unreleased not found.</textvar>
     <textvar name="REVISION"/>
     <textvar name="SHEET_NAME_1">Cover Page</textvar>
@@ -62,7 +98,7 @@
     <textvar name="SHEET_NAME_7">......................................</textvar>
     <textvar name="SHEET_NAME_8">......................................</textvar>
     <textvar name="SHEET_NAME_9">......................................</textvar>
-    <textvar name="VARIANT">CHECKED</textvar>
+    <textvar name="VARIANT">RELEASED</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Dock-DevKit</title>
