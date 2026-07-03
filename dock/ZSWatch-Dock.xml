@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/__w/Zswatch-Dock-HW/Zswatch-Dock-HW/dock/ZSWatch-Dock.kicad_sch</source>
-    <date>2026-07-03T15:47:46+0000</date>
+    <date>2026-07-03T15:53:31+0000</date>
     <tool>Eeschema 9.0.7+1</tool>
     <textvar name="ASSEMBLY_NOTES"/>
     <textvar name="BOARD_NAME">Dock-HW</textvar>
@@ -52,8 +52,8 @@
 
 -   Remove box around the version number (#73)</textvar>
     <textvar name="RELEASE_BODY_UNRELEASED">Version Unreleased not found.</textvar>
-    <textvar name="RELEASE_DATE">01-Jun-2026</textvar>
-    <textvar name="RELEASE_DATE_NUM">2026-06-01</textvar>
+    <textvar name="RELEASE_DATE">03-Jul-2026</textvar>
+    <textvar name="RELEASE_DATE_NUM">2026-07-03</textvar>
     <textvar name="RELEASE_TITLE_2.2.0">Version 2.2.0 not found.</textvar>
     <textvar name="RELEASE_TITLE_2.2.1">Version 2.2.1 - 2026-06-01</textvar>
     <textvar name="RELEASE_TITLE_UNRELEASED">Version Unreleased not found.</textvar>
