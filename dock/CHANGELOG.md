@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [0.0.1] - 2026-07-03
+
 ## [2.2.1] - 2026-06-01
 
 **Fixed:**
@@ -54,7 +56,9 @@
 -   Replace the USB LED with a darker one (#58)
 -   Replace ESD diodes with USBLC6-2P6 (#50)
 
-[Unreleased]: https://github.com/ZSWatch/Dock-HW/compare/2.2.1...HEAD
+[Unreleased]: https://github.com/evokerking1/Zswatch-Dock-HW/compare/0.0.1...HEAD
+
+[0.0.1]: https://github.com/evokerking1/Zswatch-Dock-HW/compare/2.2.1...0.0.1
 
 [2.2.1]: https://github.com/ZSWatch/Dock-HW/compare/2.2.0...2.2.1
 
