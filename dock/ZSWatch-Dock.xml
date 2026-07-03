@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/__w/Zswatch-Dock-HW/Zswatch-Dock-HW/dock/ZSWatch-Dock.kicad_sch</source>
-    <date>2026-07-03T15:53:31+0000</date>
+    <date>2026-07-03T15:59:21+0000</date>
     <tool>Eeschema 9.0.7+1</tool>
     <textvar name="ASSEMBLY_NOTES"/>
     <textvar name="BOARD_NAME">Dock-HW</textvar>
@@ -98,7 +98,7 @@
     <textvar name="SHEET_NAME_7">......................................</textvar>
     <textvar name="SHEET_NAME_8">......................................</textvar>
     <textvar name="SHEET_NAME_9">......................................</textvar>
-    <textvar name="VARIANT">CHECKED</textvar>
+    <textvar name="VARIANT">RELEASED</textvar>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Dock-DevKit</title>
